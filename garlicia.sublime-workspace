@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"re",
+				"repeat-x  (value)"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"wp_reset",
+				"wp_reset_query"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"on",
+				"one  (function)"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 331.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"gist",
+				"Gist: Update File"
+			],
+			[
+				"sy h",
+				"Set Syntax: HTML"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"syh",
+				"Set Syntax: HTML"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"place",
+				"Snippet: nav - Placeholder"
+			],
+			[
+				"pr",
+				"Package Control: Remove Package"
+			],
+			[
+				"html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"wordpress",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"wordp",
+				"Snippet: WordPress Plugin Boilerplate"
+			],
+			[
+				"wordpre",
+				"Snippet: WordPress Enqueue Script"
+			],
+			[
+				"wordpres",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"wor",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"snipp",
+				"Snippet: lorem - HTML Kitchen sink"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"add p",
+				"Package Control: Add Repository"
+			],
+			[
+				"find",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sy js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/localhost/metugo/metugo.sublime-project",
+		"/localhost/test.html",
+		"/localhost/metugo/wp-content/themes/metugo/templates/tpl-donate.php",
+		"/localhost/atlas2013/wp-content/themes/atlas2013/templates/new-front-page.php",
+		"/localhost/atlas2013/wp-content/themes/atlas2013/home.css",
+		"/localhost/atlas2013/wp-content/themes/atlas2013/header.php",
+		"/localhost/atlas2013/wp-content/themes/atlas2013/footer.php",
+		"/localhost/atlas2013/wp-content/themes/atlas2013/content-product.php",
+		"/localhost/atlas2013/wp-content/themes/atlas2013/content-product-bak.php",
+		"/localhost/atlas2013/wp-content/themes/atlas2013/functions.php",
+		"/localhost/atlas2013/atlas.sublime-project",
+		"/localhost/prs/user_agent.php",
+		"/localhost/prs/news.php",
+		"/localhost/prs/inc-form.php",
+		"/localhost/prs/prs.sublime-workspace",
+		"/localhost/prs/inc-form-bak2.php",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/localhost/prs/m/news.php",
+		"/localhost/prs/inc-form-bak.php",
+		"/localhost/prs/m/style-mobile.css",
+		"/localhost/prs/m/lets-talk.php",
+		"/localhost/prs/our-story.php",
+		"/localhost/prs/m/our-story.php",
+		"/localhost/prs/m/index.php",
+		"/localhost/prs/index.php",
+		"/localhost/prs/quform/process.php",
+		"/localhost/wordpress/wp-content/themes/settings-api-demo/functions-bak.php",
+		"/localhost/wordpress/wp-content/plugins/settings-api-demo/style.css",
+		"/localhost/wordpress/wp-content/plugins/sample/index.php",
+		"/localhost/wordpress/wordpress.sublime-project",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/localhost/wordpress/wp-content/themes/garlicia/inc/template-tags.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/style.css",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/templates/template-home.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/admin/classes/class.options_machine.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/admin/functions/functions.options.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/functions/return-smof-data.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/functions.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/functions/pagination.php",
+		"/Users/garlicia/Desktop/localhost/wm/wm.sublime-project",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/templates/template-sitemap.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/css/responsive.css",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/templates/template-home.html",
+		"/localhost/wm/wp-content/themes/walters/admin/functions/functions.options.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/_taxonomy-services_category.php",
+		"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/archive.php",
+		"/localhost/wm/wp-content/themes/walters/style.css",
+		"/localhost/wm/wp-content/themes/walters/category.php",
+		"/localhost/wm/wp-content/themes/walters/author-bio.php",
+		"/localhost/wm/wp-content/themes/walters/functions.php",
+		"/localhost/wm/wm.sublime-project",
+		"/localhost/less/my-theme.sublime-project",
+		"/localhost/less/wordpress/wp-admin/includes/class-wp-theme-install-list-table.php",
+		"/localhost/less/about.html",
+		"/localhost/gist/HTML: Starting Template.html",
+		"/localhost/gist/HTML: Starting Template",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/localhost/less/wordpress/haha.html",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/localhost/less/jquery.js",
+		"/localhost/less/index.html",
+		"/localhost/less/normalize.css",
+		"/localhost/less/css/style.css",
+		"/localhost/less/js/scripts.js",
+		"/localhost/less/index.php",
+		"/localhost/less/text.html",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/User/JavsScript/hello.sublime-snippet",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/localhost/less/Build/main.less",
+		"/localhost/less/Build/index.html",
+		"/localhost/less/Build/js/scripts.js",
+		"/Users/garlicia/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/admin",
+			"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters/functions",
+			"/Users/garlicia/Desktop/localhost/wm/wp-content/themes/walters"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"99.95",
+			"test",
+			"twentytwelve_content_nav",
+			"twentytwelve_entry_meta",
+			"pruduct",
+			"manufacturer_name",
+			"shopnow",
+			"Your one-stop-shop for dental supplies onlineBuild change. Work Collectively.",
+			"Your one-stop-shop for dental supplies online",
+			"c::set('url',",
+			"c::set('url', 'http://yourdomain.com/subfolder');",
+			"grid",
+			"navigation",
+			"logo",
+			"twitter",
+			"Coustard",
+			"instant",
+			"inst",
+			"map",
+			"logo",
+			"body",
+			"style",
+			"home",
+			"tab",
+			"Breakthrough",
+			"sub-call",
+			"register_setting",
+			"super+alt+n",
+			"smof_data",
+			"wpex_get_data",
+			"wpex_pagination",
+			"in the news",
+			"scoop",
+			"buzz",
+			"scoop",
+			"walter",
+			"water",
+			"wpex_get_data",
+			"of_categories",
+			"for",
+			"comments_template",
+			"border",
+			"content",
+			"comment",
+			"<h2>.+</h2>",
+			"hi bunny",
+			"page",
+			"navigation",
+			"id",
+			"div",
+			"box",
+			">\n",
+			"li",
+			">\n",
+			"li",
+			"lorem",
+			"Lorem",
+			">\n",
+			"li"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"style.css",
+				"css/style.css"
+			],
+			[
+				"",
+				"Build/main.less"
+			],
+			[
+				"js",
+				"Build/js/scripts.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/localhost/less/my-theme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}
